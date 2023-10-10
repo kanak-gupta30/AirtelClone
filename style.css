@@ -297,7 +297,7 @@ align-items: center;
 } */
 .sixth{
     width: 100vw;
-    height: 700px;
+    height: auto;
     background-color: rgb(241, 241, 241);
 
     text-align: center;
@@ -406,7 +406,7 @@ align-items: center;
     width: 100vw;
     /* position: absolute; */
     background-image: url("seventh.jpeg");
-height: 550px;
+height: auto;
 background-size: cover;
 background-repeat: no-repeat;
 margin-top: -70px;
@@ -495,7 +495,7 @@ background-color: rgb(218, 225, 226);
     margin: 0px;
     padding: 0px;
     width: 100vw;
-    height: 450px;
+    height: auto;
     background-color: rgb(245, 247, 246);
 
 }
