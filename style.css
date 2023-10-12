@@ -299,7 +299,7 @@ align-items: center;
     width: 100vw;
     height: auto;
     background-color: rgb(241, 241, 241);
-
+padding-botton: 20px;
     text-align: center;
 }
 .sixth-heading{
